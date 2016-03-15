@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:georss="http://www.georss.org/georss" xmlns:media="http://search.yahoo.com/mrss/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+	<title><![CDATA[samdavidsmith: Landrover]]></title>
+	<link><![CDATA[http://samdavidsmith.com/albums/landrover/]]></link>
+	<description><![CDATA[samdavidsmith: Recent uploads from the Landrover album]]></description>
+	<generator>http://koken.me</generator>
+	<lastBuildDate>Fri, 15 Jan 2016 03:21:24 +0000</lastBuildDate>
+	<atom:link href="http://samdavidsmith.com/feed/albums/17/recent.rss" rel="self" type="application/rss+xml" />	<image>
+	<url>http://samdavidsmith.com/storage/cache/images/000/182/Cover-Shot,medium_large.1452829690.jpg</url>
+	<title><![CDATA[samdavidsmith: Landrover]]></title>
+	<link>http://samdavidsmith.com/albums/landrover/</link>
+	</image>
+	<item>
+	<title><![CDATA[IMG-9087.jpg]]></title>
+	<link><![CDATA[http://samdavidsmith.com/albums/landrover/content/img-9088/]]></link>
+	<guid><![CDATA[http://samdavidsmith.com/albums/landrover/content/img-9088/]]></guid>
+	<pubDate>Fri, 15 Jan 2016 03:48:17 +0000</pubDate>
+	<dc:creator><![CDATA[Sam Smith]]></dc:creator>
+	<description><![CDATA[]]></description>
+	<content:encoded><![CDATA[<figure><img alt="IMG-9087.jpg" src="http://samdavidsmith.com/storage/cache/images/000/183/IMG-9087,medium_large.1452829696.jpg" width="640"><figcaption></figcaption></figure>]]></content:encoded>
+	<media:title><![CDATA[IMG-9087.jpg]]></media:title>
+	<media:description><![CDATA[]]></media:description>
+	<media:copyright><![CDATA[© Sam David Smith, 2016]]></media:copyright>
+	<media:content url="http://samdavidsmith.com/storage/cache/images/000/183/IMG-9087,medium_large.1452829696.jpg" width="640" type="image/jpeg" />
+	<media:thumbnail url="http://samdavidsmith.com/storage/cache/images/000/183/IMG-9087,small.1452829696.jpg" width="80" />
+	<media:credit role="photographer"><![CDATA[Sam Smith]]></media:credit>
+</item>	<item>
+	<title><![CDATA[Cover-Shot.jpg]]></title>
+	<link><![CDATA[http://samdavidsmith.com/albums/landrover/content/cover-shot-9/]]></link>
+	<guid><![CDATA[http://samdavidsmith.com/albums/landrover/content/cover-shot-9/]]></guid>
+	<pubDate>Fri, 15 Jan 2016 03:48:10 +0000</pubDate>
+	<dc:creator><![CDATA[Sam Smith]]></dc:creator>
+	<description><![CDATA[]]></description>
+	<content:encoded><![CDATA[<figure><img alt="Cover-Shot.jpg" src="http://samdavidsmith.com/storage/cache/images/000/182/Cover-Shot,medium_large.1452829690.jpg" width="640"><figcaption></figcaption></figure>]]></content:encoded>
+	<media:title><![CDATA[Cover-Shot.jpg]]></media:title>
+	<media:description><![CDATA[]]></media:description>
+	<media:copyright><![CDATA[© Sam David Smith, 2016]]></media:copyright>
+	<media:content url="http://samdavidsmith.com/storage/cache/images/000/182/Cover-Shot,medium_large.1452829690.jpg" width="640" type="image/jpeg" />
+	<media:thumbnail url="http://samdavidsmith.com/storage/cache/images/000/182/Cover-Shot,small.1452829690.jpg" width="80" />
+	<media:credit role="photographer"><![CDATA[Sam Smith]]></media:credit>
+</item>	</channel>
+</rss>

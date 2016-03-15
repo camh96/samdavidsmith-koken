@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:georss="http://www.georss.org/georss" xmlns:media="http://search.yahoo.com/mrss/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+	<title><![CDATA[samdavidsmith: Weddings]]></title>
+	<link><![CDATA[http://samdavidsmith.com/sets/weddings-1/]]></link>
+	<description><![CDATA[samdavidsmith: Recent uploads from the Weddings album]]></description>
+	<generator>http://koken.me</generator>
+	<lastBuildDate>Tue, 12 Jan 2016 02:17:29 +0000</lastBuildDate>
+	<atom:link href="http://samdavidsmith.com/feed/albums/3/recent.rss" rel="self" type="application/rss+xml" />	<image>
+	<url>http://samdavidsmith.com/storage/cache/images/000/128/Cover-Shot,medium_large.1452827448.jpg</url>
+	<title><![CDATA[samdavidsmith: Weddings]]></title>
+	<link>http://samdavidsmith.com/sets/weddings-1/</link>
+	</image>
+	<item>
+	<title><![CDATA[]]></title>
+	<link><![CDATA[http://samdavidsmith.com/albums/mr-mrs-harvey/]]></link>
+	<guid><![CDATA[http://samdavidsmith.com/albums/mr-mrs-harvey/]]></guid>
+	<pubDate>Fri, 15 Jan 2016 03:10:22 +0000</pubDate>
+	<dc:creator><![CDATA[Sam Smith]]></dc:creator>
+	<description><![CDATA[]]></description>
+	<content:encoded><![CDATA[<figure><img alt="" src="" width=""><figcaption></figcaption></figure>]]></content:encoded>
+	<media:title><![CDATA[]]></media:title>
+	<media:description><![CDATA[]]></media:description>
+	<media:license url=""><![CDATA[]]></media:license>
+	<media:content url="" width="" type="" />
+	<media:thumbnail url="" width="" />
+	<media:credit role="photographer"><![CDATA[Sam Smith]]></media:credit>
+</item>	<item>
+	<title><![CDATA[]]></title>
+	<link><![CDATA[http://samdavidsmith.com/albums/mr-mrs-farmer/]]></link>
+	<guid><![CDATA[http://samdavidsmith.com/albums/mr-mrs-farmer/]]></guid>
+	<pubDate>Fri, 15 Jan 2016 03:10:10 +0000</pubDate>
+	<dc:creator><![CDATA[Sam Smith]]></dc:creator>
+	<description><![CDATA[]]></description>
+	<content:encoded><![CDATA[<figure><img alt="" src="" width=""><figcaption></figcaption></figure>]]></content:encoded>
+	<media:title><![CDATA[]]></media:title>
+	<media:description><![CDATA[]]></media:description>
+	<media:license url=""><![CDATA[]]></media:license>
+	<media:content url="" width="" type="" />
+	<media:thumbnail url="" width="" />
+	<media:credit role="photographer"><![CDATA[Sam Smith]]></media:credit>
+</item>	<item>
+	<title><![CDATA[]]></title>
+	<link><![CDATA[http://samdavidsmith.com/albums/mr-mrs-foster/]]></link>
+	<guid><![CDATA[http://samdavidsmith.com/albums/mr-mrs-foster/]]></guid>
+	<pubDate>Fri, 15 Jan 2016 03:09:01 +0000</pubDate>
+	<dc:creator><![CDATA[Sam Smith]]></dc:creator>
+	<description><![CDATA[]]></description>
+	<content:encoded><![CDATA[<figure><img alt="" src="" width=""><figcaption></figcaption></figure>]]></content:encoded>
+	<media:title><![CDATA[]]></media:title>
+	<media:description><![CDATA[]]></media:description>
+	<media:license url=""><![CDATA[]]></media:license>
+	<media:content url="" width="" type="" />
+	<media:thumbnail url="" width="" />
+	<media:credit role="photographer"><![CDATA[Sam Smith]]></media:credit>
+</item>	</channel>
+</rss>

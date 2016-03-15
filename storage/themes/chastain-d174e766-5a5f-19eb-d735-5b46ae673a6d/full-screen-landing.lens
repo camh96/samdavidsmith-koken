@@ -1,0 +1,14 @@
+<html>
+<head>
+<koken:asset file="css/footer.css" />	
+</head>
+<body>
+<h1>samdavidsmith</h1>
+<style type="text/css">
+
+</style>
+
+<div id="landing-footer">
+<koken:include file="inc/footer.html" />
+</div>
+</body>

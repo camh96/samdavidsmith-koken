@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:georss="http://www.georss.org/georss" xmlns:media="http://search.yahoo.com/mrss/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+	<title><![CDATA[samdavidsmith: Content]]></title>
+	<link><![CDATA[http://samdavidsmith.com/]]></link>
+	<description><![CDATA[Content from samdavidsmith]]></description>
+	<lastBuildDate>Sun, 24 Jan 2016 01:20:22 +0000</lastBuildDate>
+	<generator>http://koken.me</generator>
+	<atom:link href="http://samdavidsmith.com/feed/content/recent.rss" rel="self" type="application/rss+xml" />	<item>
+	<title><![CDATA[rsz-landing.jpg]]></title>
+	<link><![CDATA[http://samdavidsmith.com/content/rsz-landing/]]></link>
+	<guid><![CDATA[http://samdavidsmith.com/content/rsz-landing/]]></guid>
+	<pubDate>Mon, 18 Jan 2016 20:07:57 +0000</pubDate>
+	<dc:creator><![CDATA[Sam Smith]]></dc:creator>
+	<description><![CDATA[]]></description>
+	<content:encoded><![CDATA[<figure><img alt="rsz-landing.jpg" src="http://samdavidsmith.com/storage/cache/images/000/192/rsz-landing,medium_large.1453147676.jpg" width="800"><figcaption></figcaption></figure>]]></content:encoded>
+	<media:title><![CDATA[rsz-landing.jpg]]></media:title>
+	<media:description><![CDATA[]]></media:description>
+	<media:copyright><![CDATA[© Sam David Smith, 2016]]></media:copyright>
+	<media:content url="http://samdavidsmith.com/storage/cache/images/000/192/rsz-landing,medium_large.1453147676.jpg" width="800" type="image/jpeg" />
+	<media:thumbnail url="http://samdavidsmith.com/storage/cache/images/000/192/rsz-landing,small.1453147676.jpg" width="100" />
+	<media:credit role="photographer"><![CDATA[Sam Smith]]></media:credit>
+</item>	<item>
+	<title><![CDATA[IMG-7533.jpg]]></title>
+	<link><![CDATA[http://samdavidsmith.com/content/img-7533/]]></link>
+	<guid><![CDATA[http://samdavidsmith.com/content/img-7533/]]></guid>
+	<pubDate>Fri, 15 Jan 2016 03:49:34 +0000</pubDate>
+	<dc:creator><![CDATA[Sam Smith]]></dc:creator>
+	<description><![CDATA[]]></description>
+	<content:encoded><![CDATA[<figure><img alt="IMG-7533.jpg" src="http://samdavidsmith.com/storage/cache/images/000/191/IMG-7533,medium_large.1452829773.jpg" width="533"><figcaption></figcaption></figure>]]></content:encoded>
+	<media:title><![CDATA[IMG-7533.jpg]]></media:title>
+	<media:description><![CDATA[]]></media:description>
+	<media:copyright><![CDATA[© Sam David Smith, 2016]]></media:copyright>
+	<media:content url="http://samdavidsmith.com/storage/cache/images/000/191/IMG-7533,medium_large.1452829773.jpg" width="533" type="image/jpeg" />
+	<media:thumbnail url="http://samdavidsmith.com/storage/cache/images/000/191/IMG-7533,small.1452829773.jpg" width="67" />
+	<media:credit role="photographer"><![CDATA[Sam Smith]]></media:credit>
+</item>	<item>
+	<title><![CDATA[IMG-4038.jpg]]></title>
+	<link><![CDATA[http://samdavidsmith.com/content/img-4038/]]></link>
+	<guid><![CDATA[http://samdavidsmith.com/content/img-4038/]]></guid>
+	<pubDate>Fri, 15 Jan 2016 03:49:32 +0000</pubDate>
+	<dc:creator><![CDATA[Sam Smith]]></dc:creator>
+	<description><![CDATA[]]></description>
+	<content:encoded><![CDATA[<figure><img alt="IMG-4038.jpg" src="http://samdavidsmith.com/storage/cache/images/000/190/IMG-4038,medium_large.1452829771.jpg" width="640"><figcaption></figcaption></figure>]]></content:encoded>
+	<media:title><![CDATA[IMG-4038.jpg]]></media:title>
+	<media:description><![CDATA[]]></media:description>
+	<media:copyright><![CDATA[© Sam David Smith, 2016]]></media:copyright>
+	<media:content url="http://samdavidsmith.com/storage/cache/images/000/190/IMG-4038,medium_large.1452829771.jpg" width="640" type="image/jpeg" />
+	<media:thumbnail url="http://samdavidsmith.com/storage/cache/images/000/190/IMG-4038,small.1452829771.jpg" width="80" />
+	<media:credit role="photographer"><![CDATA[Sam Smith]]></media:credit>
+</item>	<item>
+	<title><![CDATA[IMG-1745.jpg]]></title>
+	<link><![CDATA[http://samdavidsmith.com/content/img-1745/]]></link>
+	<guid><![CDATA[http://samdavidsmith.com/content/img-1745/]]></guid>
+	<pubDate>Fri, 15 Jan 2016 03:49:29 +0000</pubDate>
+	<dc:creator><![CDATA[Sam Smith]]></dc:creator>
+	<description><![CDATA[]]></description>
+	<content:encoded><![CDATA[<figure><img alt="IMG-1745.jpg" src="http://samdavidsmith.com/storage/cache/images/000/189/IMG-1745,medium_large.1452829768.jpg" width="640"><figcaption></figcaption></figure>]]></content:encoded>
+	<media:title><![CDATA[IMG-1745.jpg]]></media:title>
+	<media:description><![CDATA[]]></media:description>
+	<media:copyright><![CDATA[© Sam David Smith, 2016]]></media:copyright>
+	<media:content url="http://samdavidsmith.com/storage/cache/images/000/189/IMG-1745,medium_large.1452829768.jpg" width="640" type="image/jpeg" />
+	<media:thumbnail url="http://samdavidsmith.com/storage/cache/images/000/189/IMG-1745,small.1452829768.jpg" width="80" />
+	<media:credit role="photographer"><![CDATA[Sam Smith]]></media:credit>
+</item>	<item>
+	<title><![CDATA[IMG-1446.jpg]]></title>
+	<link><![CDATA[http://samdavidsmith.com/content/img-1446/]]></link>
+	<guid><![CDATA[http://samdavidsmith.com/content/img-1446/]]></guid>
+	<pubDate>Fri, 15 Jan 2016 03:49:22 +0000</pubDate>
+	<dc:creator><![CDATA[Sam Smith]]></dc:creator>
+	<description><![CDATA[]]></description>
+	<content:encoded><![CDATA[<figure><img alt="IMG-1446.jpg" src="http://samdavidsmith.com/storage/cache/images/000/188/IMG-1446,medium_large.1452829762.jpg" width="533"><figcaption></figcaption></figure>]]></content:encoded>
+	<media:title><![CDATA[IMG-1446.jpg]]></media:title>
+	<media:description><![CDATA[]]></media:description>
+	<media:copyright><![CDATA[© Sam David Smith, 2016]]></media:copyright>
+	<media:content url="http://samdavidsmith.com/storage/cache/images/000/188/IMG-1446,medium_large.1452829762.jpg" width="533" type="image/jpeg" />
+	<media:thumbnail url="http://samdavidsmith.com/storage/cache/images/000/188/IMG-1446,small.1452829762.jpg" width="67" />
+	<media:credit role="photographer"><![CDATA[Sam Smith]]></media:credit>
+</item>	<item>
+	<title><![CDATA[IMG-1432.jpg]]></title>
+	<link><![CDATA[http://samdavidsmith.com/content/img-1432/]]></link>
+	<guid><![CDATA[http://samdavidsmith.com/content/img-1432/]]></guid>
+	<pubDate>Fri, 15 Jan 2016 03:49:16 +0000</pubDate>
+	<dc:creator><![CDATA[Sam Smith]]></dc:creator>
+	<description><![CDATA[]]></description>
+	<content:encoded><![CDATA[<figure><img alt="IMG-1432.jpg" src="http://samdavidsmith.com/storage/cache/images/000/187/IMG-1432,medium_large.1452829755.jpg" width="640"><figcaption></figcaption></figure>]]></content:encoded>
+	<media:title><![CDATA[IMG-1432.jpg]]></media:title>
+	<media:description><![CDATA[]]></media:description>
+	<media:copyright><![CDATA[© Sam David Smith, 2016]]></media:copyright>
+	<media:content url="http://samdavidsmith.com/storage/cache/images/000/187/IMG-1432,medium_large.1452829755.jpg" width="640" type="image/jpeg" />
+	<media:thumbnail url="http://samdavidsmith.com/storage/cache/images/000/187/IMG-1432,small.1452829755.jpg" width="80" />
+	<media:credit role="photographer"><![CDATA[Sam Smith]]></media:credit>
+</item>	<item>
+	<title><![CDATA[IMG-1423.jpg]]></title>
+	<link><![CDATA[http://samdavidsmith.com/content/img-1423/]]></link>
+	<guid><![CDATA[http://samdavidsmith.com/content/img-1423/]]></guid>
+	<pubDate>Fri, 15 Jan 2016 03:49:08 +0000</pubDate>
+	<dc:creator><![CDATA[Sam Smith]]></dc:creator>
+	<description><![CDATA[]]></description>
+	<content:encoded><![CDATA[<figure><img alt="IMG-1423.jpg" src="http://samdavidsmith.com/storage/cache/images/000/186/IMG-1423,medium_large.1452829747.jpg" width="640"><figcaption></figcaption></figure>]]></content:encoded>
+	<media:title><![CDATA[IMG-1423.jpg]]></media:title>
+	<media:description><![CDATA[]]></media:description>
+	<media:copyright><![CDATA[© Sam David Smith, 2016]]></media:copyright>
+	<media:content url="http://samdavidsmith.com/storage/cache/images/000/186/IMG-1423,medium_large.1452829747.jpg" width="640" type="image/jpeg" />
+	<media:thumbnail url="http://samdavidsmith.com/storage/cache/images/000/186/IMG-1423,small.1452829747.jpg" width="80" />
+	<media:credit role="photographer"><![CDATA[Sam Smith]]></media:credit>
+</item>	<item>
+	<title><![CDATA[IMG-0897.jpg]]></title>
+	<link><![CDATA[http://samdavidsmith.com/content/img-0897/]]></link>
+	<guid><![CDATA[http://samdavidsmith.com/content/img-0897/]]></guid>
+	<pubDate>Fri, 15 Jan 2016 03:48:58 +0000</pubDate>
+	<dc:creator><![CDATA[Sam Smith]]></dc:creator>
+	<description><![CDATA[]]></description>
+	<content:encoded><![CDATA[<figure><img alt="IMG-0897.jpg" src="http://samdavidsmith.com/storage/cache/images/000/185/IMG-0897,medium_large.1452829737.jpg" width="800"><figcaption></figcaption></figure>]]></content:encoded>
+	<media:title><![CDATA[IMG-0897.jpg]]></media:title>
+	<media:description><![CDATA[]]></media:description>
+	<media:copyright><![CDATA[© Sam David Smith, 2016]]></media:copyright>
+	<media:content url="http://samdavidsmith.com/storage/cache/images/000/185/IMG-0897,medium_large.1452829737.jpg" width="800" type="image/jpeg" />
+	<media:thumbnail url="http://samdavidsmith.com/storage/cache/images/000/185/IMG-0897,small.1452829737.jpg" width="100" />
+	<media:credit role="photographer"><![CDATA[Sam Smith]]></media:credit>
+</item>	<item>
+	<title><![CDATA[IMG-0420.jpg]]></title>
+	<link><![CDATA[http://samdavidsmith.com/content/img-0420/]]></link>
+	<guid><![CDATA[http://samdavidsmith.com/content/img-0420/]]></guid>
+	<pubDate>Fri, 15 Jan 2016 03:48:46 +0000</pubDate>
+	<dc:creator><![CDATA[Sam Smith]]></dc:creator>
+	<description><![CDATA[]]></description>
+	<content:encoded><![CDATA[<figure><img alt="IMG-0420.jpg" src="http://samdavidsmith.com/storage/cache/images/000/184/IMG-0420,medium_large.1452829725.jpg" width="640"><figcaption></figcaption></figure>]]></content:encoded>
+	<media:title><![CDATA[IMG-0420.jpg]]></media:title>
+	<media:description><![CDATA[]]></media:description>
+	<media:copyright><![CDATA[© Sam David Smith, 2016]]></media:copyright>
+	<media:content url="http://samdavidsmith.com/storage/cache/images/000/184/IMG-0420,medium_large.1452829725.jpg" width="640" type="image/jpeg" />
+	<media:thumbnail url="http://samdavidsmith.com/storage/cache/images/000/184/IMG-0420,small.1452829725.jpg" width="80" />
+	<media:credit role="photographer"><![CDATA[Sam Smith]]></media:credit>
+</item>	<item>
+	<title><![CDATA[IMG-9087.jpg]]></title>
+	<link><![CDATA[http://samdavidsmith.com/content/img-9088/]]></link>
+	<guid><![CDATA[http://samdavidsmith.com/content/img-9088/]]></guid>
+	<pubDate>Fri, 15 Jan 2016 03:48:17 +0000</pubDate>
+	<dc:creator><![CDATA[Sam Smith]]></dc:creator>
+	<description><![CDATA[]]></description>
+	<content:encoded><![CDATA[<figure><img alt="IMG-9087.jpg" src="http://samdavidsmith.com/storage/cache/images/000/183/IMG-9087,medium_large.1452829696.jpg" width="640"><figcaption></figcaption></figure>]]></content:encoded>
+	<media:title><![CDATA[IMG-9087.jpg]]></media:title>
+	<media:description><![CDATA[]]></media:description>
+	<media:copyright><![CDATA[© Sam David Smith, 2016]]></media:copyright>
+	<media:content url="http://samdavidsmith.com/storage/cache/images/000/183/IMG-9087,medium_large.1452829696.jpg" width="640" type="image/jpeg" />
+	<media:thumbnail url="http://samdavidsmith.com/storage/cache/images/000/183/IMG-9087,small.1452829696.jpg" width="80" />
+	<media:credit role="photographer"><![CDATA[Sam Smith]]></media:credit>
+</item>	<item>
+	<title><![CDATA[Cover-Shot.jpg]]></title>
+	<link><![CDATA[http://samdavidsmith.com/content/cover-shot-9/]]></link>
+	<guid><![CDATA[http://samdavidsmith.com/content/cover-shot-9/]]></guid>
+	<pubDate>Fri, 15 Jan 2016 03:48:10 +0000</pubDate>
+	<dc:creator><![CDATA[Sam Smith]]></dc:creator>
+	<description><![CDATA[]]></description>
+	<content:encoded><![CDATA[<figure><img alt="Cover-Shot.jpg" src="http://samdavidsmith.com/storage/cache/images/000/182/Cover-Shot,medium_large.1452829690.jpg" width="640"><figcaption></figcaption></figure>]]></content:encoded>
+	<media:title><![CDATA[Cover-Shot.jpg]]></media:title>
+	<media:description><![CDATA[]]></media:description>
+	<media:copyright><![CDATA[© Sam David Smith, 2016]]></media:copyright>
+	<media:content url="http://samdavidsmith.com/storage/cache/images/000/182/Cover-Shot,medium_large.1452829690.jpg" width="640" type="image/jpeg" />
+	<media:thumbnail url="http://samdavidsmith.com/storage/cache/images/000/182/Cover-Shot,small.1452829690.jpg" width="80" />
+	<media:credit role="photographer"><![CDATA[Sam Smith]]></media:credit>
+</item>	<item>
+	<title><![CDATA[IMG-7810.jpg]]></title>
+	<link><![CDATA[http://samdavidsmith.com/content/img-7811/]]></link>
+	<guid><![CDATA[http://samdavidsmith.com/content/img-7811/]]></guid>
+	<pubDate>Fri, 15 Jan 2016 03:47:35 +0000</pubDate>
+	<dc:creator><![CDATA[Sam Smith]]></dc:creator>
+	<description><![CDATA[]]></description>
+	<content:encoded><![CDATA[<figure><img alt="IMG-7810.jpg" src="http://samdavidsmith.com/storage/cache/images/000/181/IMG-7810,medium_large.1452829654.jpg" width="640"><figcaption></figcaption></figure>]]></content:encoded>
+	<media:title><![CDATA[IMG-7810.jpg]]></media:title>
+	<media:description><![CDATA[]]></media:description>
+	<media:copyright><![CDATA[© Sam David Smith, 2016]]></media:copyright>
+	<media:content url="http://samdavidsmith.com/storage/cache/images/000/181/IMG-7810,medium_large.1452829654.jpg" width="640" type="image/jpeg" />
+	<media:thumbnail url="http://samdavidsmith.com/storage/cache/images/000/181/IMG-7810,small.1452829654.jpg" width="80" />
+	<media:credit role="photographer"><![CDATA[Sam Smith]]></media:credit>
+</item>	<item>
+	<title><![CDATA[IMG-6908.jpg]]></title>
+	<link><![CDATA[http://samdavidsmith.com/content/img-6909/]]></link>
+	<guid><![CDATA[http://samdavidsmith.com/content/img-6909/]]></guid>
+	<pubDate>Fri, 15 Jan 2016 03:47:30 +0000</pubDate>
+	<dc:creator><![CDATA[Sam Smith]]></dc:creator>
+	<description><![CDATA[]]></description>
+	<content:encoded><![CDATA[<figure><img alt="IMG-6908.jpg" src="http://samdavidsmith.com/storage/cache/images/000/180/IMG-6908,medium_large.1452829649.jpg" width="800"><figcaption></figcaption></figure>]]></content:encoded>
+	<media:title><![CDATA[IMG-6908.jpg]]></media:title>
+	<media:description><![CDATA[]]></media:description>
+	<media:copyright><![CDATA[© Sam David Smith, 2016]]></media:copyright>
+	<media:content url="http://samdavidsmith.com/storage/cache/images/000/180/IMG-6908,medium_large.1452829649.jpg" width="800" type="image/jpeg" />
+	<media:thumbnail url="http://samdavidsmith.com/storage/cache/images/000/180/IMG-6908,small.1452829649.jpg" width="100" />
+	<media:credit role="photographer"><![CDATA[Sam Smith]]></media:credit>
+</item>	<item>
+	<title><![CDATA[IMG-1617.jpg]]></title>
+	<link><![CDATA[http://samdavidsmith.com/content/img-1618/]]></link>
+	<guid><![CDATA[http://samdavidsmith.com/content/img-1618/]]></guid>
+	<pubDate>Fri, 15 Jan 2016 03:47:25 +0000</pubDate>
+	<dc:creator><![CDATA[Sam Smith]]></dc:creator>
+	<description><![CDATA[]]></description>
+	<content:encoded><![CDATA[<figure><img alt="IMG-1617.jpg" src="http://samdavidsmith.com/storage/cache/images/000/179/IMG-1617,medium_large.1452829644.jpg" width="640"><figcaption></figcaption></figure>]]></content:encoded>
+	<media:title><![CDATA[IMG-1617.jpg]]></media:title>
+	<media:description><![CDATA[]]></media:description>
+	<media:copyright><![CDATA[© Sam David Smith, 2016]]></media:copyright>
+	<media:content url="http://samdavidsmith.com/storage/cache/images/000/179/IMG-1617,medium_large.1452829644.jpg" width="640" type="image/jpeg" />
+	<media:thumbnail url="http://samdavidsmith.com/storage/cache/images/000/179/IMG-1617,small.1452829644.jpg" width="80" />
+	<media:credit role="photographer"><![CDATA[Sam Smith]]></media:credit>
+</item>	<item>
+	<title><![CDATA[IMG-1587.jpg]]></title>
+	<link><![CDATA[http://samdavidsmith.com/content/img-1588/]]></link>
+	<guid><![CDATA[http://samdavidsmith.com/content/img-1588/]]></guid>
+	<pubDate>Fri, 15 Jan 2016 03:47:20 +0000</pubDate>
+	<dc:creator><![CDATA[Sam Smith]]></dc:creator>
+	<description><![CDATA[]]></description>
+	<content:encoded><![CDATA[<figure><img alt="IMG-1587.jpg" src="http://samdavidsmith.com/storage/cache/images/000/178/IMG-1587,medium_large.1452829639.jpg" width="640"><figcaption></figcaption></figure>]]></content:encoded>
+	<media:title><![CDATA[IMG-1587.jpg]]></media:title>
+	<media:description><![CDATA[]]></media:description>
+	<media:copyright><![CDATA[© Sam David Smith, 2016]]></media:copyright>
+	<media:content url="http://samdavidsmith.com/storage/cache/images/000/178/IMG-1587,medium_large.1452829639.jpg" width="640" type="image/jpeg" />
+	<media:thumbnail url="http://samdavidsmith.com/storage/cache/images/000/178/IMG-1587,small.1452829639.jpg" width="80" />
+	<media:credit role="photographer"><![CDATA[Sam Smith]]></media:credit>
+</item>	<item>
+	<title><![CDATA[IMG-1295.jpg]]></title>
+	<link><![CDATA[http://samdavidsmith.com/content/img-1296/]]></link>
+	<guid><![CDATA[http://samdavidsmith.com/content/img-1296/]]></guid>
+	<pubDate>Fri, 15 Jan 2016 03:47:14 +0000</pubDate>
+	<dc:creator><![CDATA[Sam Smith]]></dc:creator>
+	<description><![CDATA[]]></description>
+	<content:encoded><![CDATA[<figure><img alt="IMG-1295.jpg" src="http://samdavidsmith.com/storage/cache/images/000/177/IMG-1295,medium_large.1452829633.jpg" width="640"><figcaption></figcaption></figure>]]></content:encoded>
+	<media:title><![CDATA[IMG-1295.jpg]]></media:title>
+	<media:description><![CDATA[]]></media:description>
+	<media:copyright><![CDATA[© Sam David Smith, 2016]]></media:copyright>
+	<media:content url="http://samdavidsmith.com/storage/cache/images/000/177/IMG-1295,medium_large.1452829633.jpg" width="640" type="image/jpeg" />
+	<media:thumbnail url="http://samdavidsmith.com/storage/cache/images/000/177/IMG-1295,small.1452829633.jpg" width="80" />
+	<media:credit role="photographer"><![CDATA[Sam Smith]]></media:credit>
+</item>	<item>
+	<title><![CDATA[IMG-1032.jpg]]></title>
+	<link><![CDATA[http://samdavidsmith.com/content/img-1033/]]></link>
+	<guid><![CDATA[http://samdavidsmith.com/content/img-1033/]]></guid>
+	<pubDate>Fri, 15 Jan 2016 03:46:56 +0000</pubDate>
+	<dc:creator><![CDATA[Sam Smith]]></dc:creator>
+	<description><![CDATA[]]></description>
+	<content:encoded><![CDATA[<figure><img alt="IMG-1032.jpg" src="http://samdavidsmith.com/storage/cache/images/000/176/IMG-1032,medium_large.1452829616.jpg" width="640"><figcaption></figcaption></figure>]]></content:encoded>
+	<media:title><![CDATA[IMG-1032.jpg]]></media:title>
+	<media:description><![CDATA[]]></media:description>
+	<media:copyright><![CDATA[© Sam David Smith, 2016]]></media:copyright>
+	<media:content url="http://samdavidsmith.com/storage/cache/images/000/176/IMG-1032,medium_large.1452829616.jpg" width="640" type="image/jpeg" />
+	<media:thumbnail url="http://samdavidsmith.com/storage/cache/images/000/176/IMG-1032,small.1452829616.jpg" width="80" />
+	<media:credit role="photographer"><![CDATA[Sam Smith]]></media:credit>
+</item>	<item>
+	<title><![CDATA[IMG-0837.jpg]]></title>
+	<link><![CDATA[http://samdavidsmith.com/content/img-838/]]></link>
+	<guid><![CDATA[http://samdavidsmith.com/content/img-838/]]></guid>
+	<pubDate>Fri, 15 Jan 2016 03:46:39 +0000</pubDate>
+	<dc:creator><![CDATA[Sam Smith]]></dc:creator>
+	<description><![CDATA[]]></description>
+	<content:encoded><![CDATA[<figure><img alt="IMG-0837.jpg" src="http://samdavidsmith.com/storage/cache/images/000/175/IMG-0837,medium_large.1452829598.jpg" width="533"><figcaption></figcaption></figure>]]></content:encoded>
+	<media:title><![CDATA[IMG-0837.jpg]]></media:title>
+	<media:description><![CDATA[]]></media:description>
+	<media:copyright><![CDATA[© Sam David Smith, 2016]]></media:copyright>
+	<media:content url="http://samdavidsmith.com/storage/cache/images/000/175/IMG-0837,medium_large.1452829598.jpg" width="533" type="image/jpeg" />
+	<media:thumbnail url="http://samdavidsmith.com/storage/cache/images/000/175/IMG-0837,small.1452829598.jpg" width="67" />
+	<media:credit role="photographer"><![CDATA[Sam Smith]]></media:credit>
+</item>	<item>
+	<title><![CDATA[IMG-0371.jpg]]></title>
+	<link><![CDATA[http://samdavidsmith.com/content/img-372/]]></link>
+	<guid><![CDATA[http://samdavidsmith.com/content/img-372/]]></guid>
+	<pubDate>Fri, 15 Jan 2016 03:46:26 +0000</pubDate>
+	<dc:creator><![CDATA[Sam Smith]]></dc:creator>
+	<description><![CDATA[]]></description>
+	<content:encoded><![CDATA[<figure><img alt="IMG-0371.jpg" src="http://samdavidsmith.com/storage/cache/images/000/174/IMG-0371,medium_large.1452829585.jpg" width="640"><figcaption></figcaption></figure>]]></content:encoded>
+	<media:title><![CDATA[IMG-0371.jpg]]></media:title>
+	<media:description><![CDATA[]]></media:description>
+	<media:copyright><![CDATA[© Sam David Smith, 2016]]></media:copyright>
+	<media:content url="http://samdavidsmith.com/storage/cache/images/000/174/IMG-0371,medium_large.1452829585.jpg" width="640" type="image/jpeg" />
+	<media:thumbnail url="http://samdavidsmith.com/storage/cache/images/000/174/IMG-0371,small.1452829585.jpg" width="80" />
+	<media:credit role="photographer"><![CDATA[Sam Smith]]></media:credit>
+</item>	<item>
+	<title><![CDATA[Cover-Shot.jpg]]></title>
+	<link><![CDATA[http://samdavidsmith.com/content/cover-shot-8/]]></link>
+	<guid><![CDATA[http://samdavidsmith.com/content/cover-shot-8/]]></guid>
+	<pubDate>Fri, 15 Jan 2016 03:46:11 +0000</pubDate>
+	<dc:creator><![CDATA[Sam Smith]]></dc:creator>
+	<description><![CDATA[Processed with VSCOcam with a7 preset]]></description>
+	<content:encoded><![CDATA[<figure><img alt="Cover-Shot.jpg" src="http://samdavidsmith.com/storage/cache/images/000/173/Cover-Shot,medium_large.1452829571.jpg" width="640"><figcaption>Processed with VSCOcam with a7 preset</figcaption></figure>]]></content:encoded>
+	<media:title><![CDATA[Cover-Shot.jpg]]></media:title>
+	<media:description><![CDATA[Processed with VSCOcam with a7 preset]]></media:description>
+	<media:copyright><![CDATA[© Sam David Smith, 2016]]></media:copyright>
+	<media:content url="http://samdavidsmith.com/storage/cache/images/000/173/Cover-Shot,medium_large.1452829571.jpg" width="640" type="image/jpeg" />
+	<media:thumbnail url="http://samdavidsmith.com/storage/cache/images/000/173/Cover-Shot,small.1452829571.jpg" width="80" />
+	<media:credit role="photographer"><![CDATA[Sam Smith]]></media:credit>
+</item>	<item>
+	<title><![CDATA[IMG-7276.jpg]]></title>
+	<link><![CDATA[http://samdavidsmith.com/content/img-7277/]]></link>
+	<guid><![CDATA[http://samdavidsmith.com/content/img-7277/]]></guid>
+	<pubDate>Fri, 15 Jan 2016 03:45:49 +0000</pubDate>
+	<dc:creator><![CDATA[Sam Smith]]></dc:creator>
+	<description><![CDATA[]]></description>
+	<content:encoded><![CDATA[<figure><img alt="IMG-7276.jpg" src="http://samdavidsmith.com/storage/cache/images/000/172/IMG-7276,medium_large.1452829548.jpg" width="800"><figcaption></figcaption></figure>]]></content:encoded>
+	<media:title><![CDATA[IMG-7276.jpg]]></media:title>
+	<media:description><![CDATA[]]></media:description>
+	<media:copyright><![CDATA[© Sam David Smith, 2016]]></media:copyright>
+	<media:content url="http://samdavidsmith.com/storage/cache/images/000/172/IMG-7276,medium_large.1452829548.jpg" width="800" type="image/jpeg" />
+	<media:thumbnail url="http://samdavidsmith.com/storage/cache/images/000/172/IMG-7276,small.1452829548.jpg" width="100" />
+	<media:credit role="photographer"><![CDATA[Sam Smith]]></media:credit>
+</item>	<item>
+	<title><![CDATA[IMG-7240.jpg]]></title>
+	<link><![CDATA[http://samdavidsmith.com/content/img-7241/]]></link>
+	<guid><![CDATA[http://samdavidsmith.com/content/img-7241/]]></guid>
+	<pubDate>Fri, 15 Jan 2016 03:45:35 +0000</pubDate>
+	<dc:creator><![CDATA[Sam Smith]]></dc:creator>
+	<description><![CDATA[]]></description>
+	<content:encoded><![CDATA[<figure><img alt="IMG-7240.jpg" src="http://samdavidsmith.com/storage/cache/images/000/171/IMG-7240,medium_large.1452829535.jpg" width="800"><figcaption></figcaption></figure>]]></content:encoded>
+	<media:title><![CDATA[IMG-7240.jpg]]></media:title>
+	<media:description><![CDATA[]]></media:description>
+	<media:copyright><![CDATA[© Sam David Smith, 2016]]></media:copyright>
+	<media:content url="http://samdavidsmith.com/storage/cache/images/000/171/IMG-7240,medium_large.1452829535.jpg" width="800" type="image/jpeg" />
+	<media:thumbnail url="http://samdavidsmith.com/storage/cache/images/000/171/IMG-7240,small.1452829535.jpg" width="100" />
+	<media:credit role="photographer"><![CDATA[Sam Smith]]></media:credit>
+</item>	<item>
+	<title><![CDATA[IMG-7238.jpg]]></title>
+	<link><![CDATA[http://samdavidsmith.com/content/img-7239/]]></link>
+	<guid><![CDATA[http://samdavidsmith.com/content/img-7239/]]></guid>
+	<pubDate>Fri, 15 Jan 2016 03:45:22 +0000</pubDate>
+	<dc:creator><![CDATA[Sam Smith]]></dc:creator>
+	<description><![CDATA[]]></description>
+	<content:encoded><![CDATA[<figure><img alt="IMG-7238.jpg" src="http://samdavidsmith.com/storage/cache/images/000/170/IMG-7238,medium_large.1452829521.jpg" width="800"><figcaption></figcaption></figure>]]></content:encoded>
+	<media:title><![CDATA[IMG-7238.jpg]]></media:title>
+	<media:description><![CDATA[]]></media:description>
+	<media:copyright><![CDATA[© Sam David Smith, 2016]]></media:copyright>
+	<media:content url="http://samdavidsmith.com/storage/cache/images/000/170/IMG-7238,medium_large.1452829521.jpg" width="800" type="image/jpeg" />
+	<media:thumbnail url="http://samdavidsmith.com/storage/cache/images/000/170/IMG-7238,small.1452829521.jpg" width="100" />
+	<media:credit role="photographer"><![CDATA[Sam Smith]]></media:credit>
+</item>	<item>
+	<title><![CDATA[IMG-6792.jpg]]></title>
+	<link><![CDATA[http://samdavidsmith.com/content/img-6793/]]></link>
+	<guid><![CDATA[http://samdavidsmith.com/content/img-6793/]]></guid>
+	<pubDate>Fri, 15 Jan 2016 03:44:58 +0000</pubDate>
+	<dc:creator><![CDATA[Sam Smith]]></dc:creator>
+	<description><![CDATA[]]></description>
+	<content:encoded><![CDATA[<figure><img alt="IMG-6792.jpg" src="http://samdavidsmith.com/storage/cache/images/000/169/IMG-6792,medium_large.1452829497.jpg" width="800"><figcaption></figcaption></figure>]]></content:encoded>
+	<media:title><![CDATA[IMG-6792.jpg]]></media:title>
+	<media:description><![CDATA[]]></media:description>
+	<media:copyright><![CDATA[© Sam David Smith, 2016]]></media:copyright>
+	<media:content url="http://samdavidsmith.com/storage/cache/images/000/169/IMG-6792,medium_large.1452829497.jpg" width="800" type="image/jpeg" />
+	<media:thumbnail url="http://samdavidsmith.com/storage/cache/images/000/169/IMG-6792,small.1452829497.jpg" width="100" />
+	<media:credit role="photographer"><![CDATA[Sam Smith]]></media:credit>
+</item>	<item>
+	<title><![CDATA[Cover-Shot.jpg]]></title>
+	<link><![CDATA[http://samdavidsmith.com/content/cover-shot-7/]]></link>
+	<guid><![CDATA[http://samdavidsmith.com/content/cover-shot-7/]]></guid>
+	<pubDate>Fri, 15 Jan 2016 03:44:42 +0000</pubDate>
+	<dc:creator><![CDATA[Sam Smith]]></dc:creator>
+	<description><![CDATA[]]></description>
+	<content:encoded><![CDATA[<figure><img alt="Cover-Shot.jpg" src="http://samdavidsmith.com/storage/cache/images/000/168/Cover-Shot,medium_large.1452829482.jpg" width="800"><figcaption></figcaption></figure>]]></content:encoded>
+	<media:title><![CDATA[Cover-Shot.jpg]]></media:title>
+	<media:description><![CDATA[]]></media:description>
+	<media:copyright><![CDATA[© Sam David Smith, 2016]]></media:copyright>
+	<media:content url="http://samdavidsmith.com/storage/cache/images/000/168/Cover-Shot,medium_large.1452829482.jpg" width="800" type="image/jpeg" />
+	<media:thumbnail url="http://samdavidsmith.com/storage/cache/images/000/168/Cover-Shot,small.1452829482.jpg" width="100" />
+	<media:credit role="photographer"><![CDATA[Sam Smith]]></media:credit>
+</item>	<item>
+	<title><![CDATA[Photo-15-01-16-3-11-47-PM-1.jpg]]></title>
+	<link><![CDATA[http://samdavidsmith.com/content/photo-15-01-16-3-11-47-pm-2/]]></link>
+	<guid><![CDATA[http://samdavidsmith.com/content/photo-15-01-16-3-11-47-pm-2/]]></guid>
+	<pubDate>Fri, 15 Jan 2016 03:19:31 +0000</pubDate>
+	<dc:creator><![CDATA[Sam Smith]]></dc:creator>
+	<description><![CDATA[Processed with VSCOcam with a6 preset]]></description>
+	<content:encoded><![CDATA[<figure><img alt="Photo-15-01-16-3-11-47-PM-1.jpg" src="http://samdavidsmith.com/storage/cache/images/000/143/Photo-15-01-16-3-11-47-PM-1,medium_large.1452827971.jpg" width="800"><figcaption>Processed with VSCOcam with a6 preset</figcaption></figure>]]></content:encoded>
+	<media:title><![CDATA[Photo-15-01-16-3-11-47-PM-1.jpg]]></media:title>
+	<media:description><![CDATA[Processed with VSCOcam with a6 preset]]></media:description>
+	<media:copyright><![CDATA[© Sam David Smith, 2016]]></media:copyright>
+	<media:content url="http://samdavidsmith.com/storage/cache/images/000/143/Photo-15-01-16-3-11-47-PM-1,medium_large.1452827971.jpg" width="800" type="image/jpeg" />
+	<media:thumbnail url="http://samdavidsmith.com/storage/cache/images/000/143/Photo-15-01-16-3-11-47-PM-1,small.1452827971.jpg" width="100" />
+	<media:credit role="photographer"><![CDATA[Sam Smith]]></media:credit>
+</item>	<item>
+	<title><![CDATA[Cover-Shot.jpg]]></title>
+	<link><![CDATA[http://samdavidsmith.com/content/cover-shot-3/]]></link>
+	<guid><![CDATA[http://samdavidsmith.com/content/cover-shot-3/]]></guid>
+	<pubDate>Fri, 15 Jan 2016 03:19:28 +0000</pubDate>
+	<dc:creator><![CDATA[Sam Smith]]></dc:creator>
+	<description><![CDATA[Processed with VSCOcam with a6 preset]]></description>
+	<content:encoded><![CDATA[<figure><img alt="Cover-Shot.jpg" src="http://samdavidsmith.com/storage/cache/images/000/142/Cover-Shot,medium_large.1452827968.jpg" width="640"><figcaption>Processed with VSCOcam with a6 preset</figcaption></figure>]]></content:encoded>
+	<media:title><![CDATA[Cover-Shot.jpg]]></media:title>
+	<media:description><![CDATA[Processed with VSCOcam with a6 preset]]></media:description>
+	<media:copyright><![CDATA[© Sam David Smith, 2016]]></media:copyright>
+	<media:content url="http://samdavidsmith.com/storage/cache/images/000/142/Cover-Shot,medium_large.1452827968.jpg" width="640" type="image/jpeg" />
+	<media:thumbnail url="http://samdavidsmith.com/storage/cache/images/000/142/Cover-Shot,small.1452827968.jpg" width="80" />
+	<media:credit role="photographer"><![CDATA[Sam Smith]]></media:credit>
+</item>	<item>
+	<title><![CDATA[Photo-5-12-15-8-07-51-PM.jpg]]></title>
+	<link><![CDATA[http://samdavidsmith.com/content/photo-5-12-15-8-07-51-pm/]]></link>
+	<guid><![CDATA[http://samdavidsmith.com/content/photo-5-12-15-8-07-51-pm/]]></guid>
+	<pubDate>Fri, 15 Jan 2016 03:18:27 +0000</pubDate>
+	<dc:creator><![CDATA[Sam Smith]]></dc:creator>
+	<description><![CDATA[]]></description>
+	<content:encoded><![CDATA[<figure><img alt="Photo-5-12-15-8-07-51-PM.jpg" src="http://samdavidsmith.com/storage/cache/images/000/139/Photo-5-12-15-8-07-51-PM,medium_large.1452827907.jpg" width="640"><figcaption></figcaption></figure>]]></content:encoded>
+	<media:title><![CDATA[Photo-5-12-15-8-07-51-PM.jpg]]></media:title>
+	<media:description><![CDATA[]]></media:description>
+	<media:copyright><![CDATA[© Sam David Smith, 2016]]></media:copyright>
+	<media:content url="http://samdavidsmith.com/storage/cache/images/000/139/Photo-5-12-15-8-07-51-PM,medium_large.1452827907.jpg" width="640" type="image/jpeg" />
+	<media:thumbnail url="http://samdavidsmith.com/storage/cache/images/000/139/Photo-5-12-15-8-07-51-PM,small.1452827907.jpg" width="80" />
+	<media:credit role="photographer"><![CDATA[Sam Smith]]></media:credit>
+</item>	<item>
+	<title><![CDATA[Photo-5-12-15-8-06-42-PM.jpg]]></title>
+	<link><![CDATA[http://samdavidsmith.com/content/photo-5-12-15-8-06-42-pm/]]></link>
+	<guid><![CDATA[http://samdavidsmith.com/content/photo-5-12-15-8-06-42-pm/]]></guid>
+	<pubDate>Fri, 15 Jan 2016 03:18:25 +0000</pubDate>
+	<dc:creator><![CDATA[Sam Smith]]></dc:creator>
+	<description><![CDATA[]]></description>
+	<content:encoded><![CDATA[<figure><img alt="Photo-5-12-15-8-06-42-PM.jpg" src="http://samdavidsmith.com/storage/cache/images/000/138/Photo-5-12-15-8-06-42-PM,medium_large.1452827904.jpg" width="800"><figcaption></figcaption></figure>]]></content:encoded>
+	<media:title><![CDATA[Photo-5-12-15-8-06-42-PM.jpg]]></media:title>
+	<media:description><![CDATA[]]></media:description>
+	<media:copyright><![CDATA[© Sam David Smith, 2016]]></media:copyright>
+	<media:content url="http://samdavidsmith.com/storage/cache/images/000/138/Photo-5-12-15-8-06-42-PM,medium_large.1452827904.jpg" width="800" type="image/jpeg" />
+	<media:thumbnail url="http://samdavidsmith.com/storage/cache/images/000/138/Photo-5-12-15-8-06-42-PM,small.1452827904.jpg" width="100" />
+	<media:credit role="photographer"><![CDATA[Sam Smith]]></media:credit>
+</item>	<item>
+	<title><![CDATA[IMG-8270.jpg]]></title>
+	<link><![CDATA[http://samdavidsmith.com/content/img-8270/]]></link>
+	<guid><![CDATA[http://samdavidsmith.com/content/img-8270/]]></guid>
+	<pubDate>Fri, 15 Jan 2016 03:18:21 +0000</pubDate>
+	<dc:creator><![CDATA[Sam Smith]]></dc:creator>
+	<description><![CDATA[]]></description>
+	<content:encoded><![CDATA[<figure><img alt="IMG-8270.jpg" src="http://samdavidsmith.com/storage/cache/images/000/137/IMG-8270,medium_large.1452827901.jpg" width="533"><figcaption></figcaption></figure>]]></content:encoded>
+	<media:title><![CDATA[IMG-8270.jpg]]></media:title>
+	<media:description><![CDATA[]]></media:description>
+	<media:copyright><![CDATA[© Sam David Smith, 2016]]></media:copyright>
+	<media:content url="http://samdavidsmith.com/storage/cache/images/000/137/IMG-8270,medium_large.1452827901.jpg" width="533" type="image/jpeg" />
+	<media:thumbnail url="http://samdavidsmith.com/storage/cache/images/000/137/IMG-8270,small.1452827901.jpg" width="67" />
+	<media:credit role="photographer"><![CDATA[Sam Smith]]></media:credit>
+</item>	<item>
+	<title><![CDATA[Cover-Shot.jpg]]></title>
+	<link><![CDATA[http://samdavidsmith.com/content/cover-shot-1/]]></link>
+	<guid><![CDATA[http://samdavidsmith.com/content/cover-shot-1/]]></guid>
+	<pubDate>Fri, 15 Jan 2016 03:18:00 +0000</pubDate>
+	<dc:creator><![CDATA[Sam Smith]]></dc:creator>
+	<description><![CDATA[]]></description>
+	<content:encoded><![CDATA[<figure><img alt="Cover-Shot.jpg" src="http://samdavidsmith.com/storage/cache/images/000/136/Cover-Shot,medium_large.1452827880.jpg" width="800"><figcaption></figcaption></figure>]]></content:encoded>
+	<media:title><![CDATA[Cover-Shot.jpg]]></media:title>
+	<media:description><![CDATA[]]></media:description>
+	<media:copyright><![CDATA[© Sam David Smith, 2016]]></media:copyright>
+	<media:content url="http://samdavidsmith.com/storage/cache/images/000/136/Cover-Shot,medium_large.1452827880.jpg" width="800" type="image/jpeg" />
+	<media:thumbnail url="http://samdavidsmith.com/storage/cache/images/000/136/Cover-Shot,small.1452827880.jpg" width="100" />
+	<media:credit role="photographer"><![CDATA[Sam Smith]]></media:credit>
+</item>	<item>
+	<title><![CDATA[VE5A4243.jpg]]></title>
+	<link><![CDATA[http://samdavidsmith.com/content/ve5a4243/]]></link>
+	<guid><![CDATA[http://samdavidsmith.com/content/ve5a4243/]]></guid>
+	<pubDate>Fri, 15 Jan 2016 03:12:52 +0000</pubDate>
+	<dc:creator><![CDATA[Sam Smith]]></dc:creator>
+	<description><![CDATA[]]></description>
+	<content:encoded><![CDATA[<figure><img alt="VE5A4243.jpg" src="http://samdavidsmith.com/storage/cache/images/000/135/VE5A4243,medium_large.1452827571.jpg" width="800"><figcaption></figcaption></figure>]]></content:encoded>
+	<media:title><![CDATA[VE5A4243.jpg]]></media:title>
+	<media:description><![CDATA[]]></media:description>
+	<media:copyright><![CDATA[© Sam David Smith, 2016]]></media:copyright>
+	<media:content url="http://samdavidsmith.com/storage/cache/images/000/135/VE5A4243,medium_large.1452827571.jpg" width="800" type="image/jpeg" />
+	<media:thumbnail url="http://samdavidsmith.com/storage/cache/images/000/135/VE5A4243,small.1452827571.jpg" width="100" />
+	<media:credit role="photographer"><![CDATA[Sam Smith]]></media:credit>
+</item>	<item>
+	<title><![CDATA[VE5A4221.jpg]]></title>
+	<link><![CDATA[http://samdavidsmith.com/content/ve5a4221/]]></link>
+	<guid><![CDATA[http://samdavidsmith.com/content/ve5a4221/]]></guid>
+	<pubDate>Fri, 15 Jan 2016 03:12:41 +0000</pubDate>
+	<dc:creator><![CDATA[Sam Smith]]></dc:creator>
+	<description><![CDATA[]]></description>
+	<content:encoded><![CDATA[<figure><img alt="VE5A4221.jpg" src="http://samdavidsmith.com/storage/cache/images/000/134/VE5A4221,medium_large.1452827560.jpg" width="533"><figcaption></figcaption></figure>]]></content:encoded>
+	<media:title><![CDATA[VE5A4221.jpg]]></media:title>
+	<media:description><![CDATA[]]></media:description>
+	<media:copyright><![CDATA[© Sam David Smith, 2016]]></media:copyright>
+	<media:content url="http://samdavidsmith.com/storage/cache/images/000/134/VE5A4221,medium_large.1452827560.jpg" width="533" type="image/jpeg" />
+	<media:thumbnail url="http://samdavidsmith.com/storage/cache/images/000/134/VE5A4221,small.1452827560.jpg" width="67" />
+	<media:credit role="photographer"><![CDATA[Sam Smith]]></media:credit>
+</item>	<item>
+	<title><![CDATA[VE5A4217.jpg]]></title>
+	<link><![CDATA[http://samdavidsmith.com/content/ve5a4217/]]></link>
+	<guid><![CDATA[http://samdavidsmith.com/content/ve5a4217/]]></guid>
+	<pubDate>Fri, 15 Jan 2016 03:12:21 +0000</pubDate>
+	<dc:creator><![CDATA[Sam Smith]]></dc:creator>
+	<description><![CDATA[]]></description>
+	<content:encoded><![CDATA[<figure><img alt="VE5A4217.jpg" src="http://samdavidsmith.com/storage/cache/images/000/133/VE5A4217,medium_large.1452827540.jpg" width="640"><figcaption></figcaption></figure>]]></content:encoded>
+	<media:title><![CDATA[VE5A4217.jpg]]></media:title>
+	<media:description><![CDATA[]]></media:description>
+	<media:copyright><![CDATA[© Sam David Smith, 2016]]></media:copyright>
+	<media:content url="http://samdavidsmith.com/storage/cache/images/000/133/VE5A4217,medium_large.1452827540.jpg" width="640" type="image/jpeg" />
+	<media:thumbnail url="http://samdavidsmith.com/storage/cache/images/000/133/VE5A4217,small.1452827540.jpg" width="80" />
+	<media:credit role="photographer"><![CDATA[Sam Smith]]></media:credit>
+</item>	<item>
+	<title><![CDATA[VE5A4198.jpg]]></title>
+	<link><![CDATA[http://samdavidsmith.com/content/ve5a4198/]]></link>
+	<guid><![CDATA[http://samdavidsmith.com/content/ve5a4198/]]></guid>
+	<pubDate>Fri, 15 Jan 2016 03:12:06 +0000</pubDate>
+	<dc:creator><![CDATA[Sam Smith]]></dc:creator>
+	<description><![CDATA[]]></description>
+	<content:encoded><![CDATA[<figure><img alt="VE5A4198.jpg" src="http://samdavidsmith.com/storage/cache/images/000/132/VE5A4198,medium_large.1452827525.jpg" width="800"><figcaption></figcaption></figure>]]></content:encoded>
+	<media:title><![CDATA[VE5A4198.jpg]]></media:title>
+	<media:description><![CDATA[]]></media:description>
+	<media:copyright><![CDATA[© Sam David Smith, 2016]]></media:copyright>
+	<media:content url="http://samdavidsmith.com/storage/cache/images/000/132/VE5A4198,medium_large.1452827525.jpg" width="800" type="image/jpeg" />
+	<media:thumbnail url="http://samdavidsmith.com/storage/cache/images/000/132/VE5A4198,small.1452827525.jpg" width="100" />
+	<media:credit role="photographer"><![CDATA[Sam Smith]]></media:credit>
+</item>	<item>
+	<title><![CDATA[VE5A4166.jpg]]></title>
+	<link><![CDATA[http://samdavidsmith.com/content/ve5a4166/]]></link>
+	<guid><![CDATA[http://samdavidsmith.com/content/ve5a4166/]]></guid>
+	<pubDate>Fri, 15 Jan 2016 03:11:50 +0000</pubDate>
+	<dc:creator><![CDATA[Sam Smith]]></dc:creator>
+	<description><![CDATA[]]></description>
+	<content:encoded><![CDATA[<figure><img alt="VE5A4166.jpg" src="http://samdavidsmith.com/storage/cache/images/000/131/VE5A4166,medium_large.1452827509.jpg" width="640"><figcaption></figcaption></figure>]]></content:encoded>
+	<media:title><![CDATA[VE5A4166.jpg]]></media:title>
+	<media:description><![CDATA[]]></media:description>
+	<media:copyright><![CDATA[© Sam David Smith, 2016]]></media:copyright>
+	<media:content url="http://samdavidsmith.com/storage/cache/images/000/131/VE5A4166,medium_large.1452827509.jpg" width="640" type="image/jpeg" />
+	<media:thumbnail url="http://samdavidsmith.com/storage/cache/images/000/131/VE5A4166,small.1452827509.jpg" width="80" />
+	<media:credit role="photographer"><![CDATA[Sam Smith]]></media:credit>
+</item>	<item>
+	<title><![CDATA[VE5A4158.jpg]]></title>
+	<link><![CDATA[http://samdavidsmith.com/content/ve5a4158/]]></link>
+	<guid><![CDATA[http://samdavidsmith.com/content/ve5a4158/]]></guid>
+	<pubDate>Fri, 15 Jan 2016 03:11:29 +0000</pubDate>
+	<dc:creator><![CDATA[Sam Smith]]></dc:creator>
+	<description><![CDATA[]]></description>
+	<content:encoded><![CDATA[<figure><img alt="VE5A4158.jpg" src="http://samdavidsmith.com/storage/cache/images/000/130/VE5A4158,medium_large.1452827489.jpg" width="640"><figcaption></figcaption></figure>]]></content:encoded>
+	<media:title><![CDATA[VE5A4158.jpg]]></media:title>
+	<media:description><![CDATA[]]></media:description>
+	<media:copyright><![CDATA[© Sam David Smith, 2016]]></media:copyright>
+	<media:content url="http://samdavidsmith.com/storage/cache/images/000/130/VE5A4158,medium_large.1452827489.jpg" width="640" type="image/jpeg" />
+	<media:thumbnail url="http://samdavidsmith.com/storage/cache/images/000/130/VE5A4158,small.1452827489.jpg" width="80" />
+	<media:credit role="photographer"><![CDATA[Sam Smith]]></media:credit>
+</item>	<item>
+	<title><![CDATA[VE5A4145.jpg]]></title>
+	<link><![CDATA[http://samdavidsmith.com/content/ve5a4145/]]></link>
+	<guid><![CDATA[http://samdavidsmith.com/content/ve5a4145/]]></guid>
+	<pubDate>Fri, 15 Jan 2016 03:11:11 +0000</pubDate>
+	<dc:creator><![CDATA[Sam Smith]]></dc:creator>
+	<description><![CDATA[]]></description>
+	<content:encoded><![CDATA[<figure><img alt="VE5A4145.jpg" src="http://samdavidsmith.com/storage/cache/images/000/129/VE5A4145,medium_large.1452827470.jpg" width="800"><figcaption></figcaption></figure>]]></content:encoded>
+	<media:title><![CDATA[VE5A4145.jpg]]></media:title>
+	<media:description><![CDATA[]]></media:description>
+	<media:copyright><![CDATA[© Sam David Smith, 2016]]></media:copyright>
+	<media:content url="http://samdavidsmith.com/storage/cache/images/000/129/VE5A4145,medium_large.1452827470.jpg" width="800" type="image/jpeg" />
+	<media:thumbnail url="http://samdavidsmith.com/storage/cache/images/000/129/VE5A4145,small.1452827470.jpg" width="100" />
+	<media:credit role="photographer"><![CDATA[Sam Smith]]></media:credit>
+</item>	<item>
+	<title><![CDATA[Cover-Shot.jpg]]></title>
+	<link><![CDATA[http://samdavidsmith.com/content/cover-shot/]]></link>
+	<guid><![CDATA[http://samdavidsmith.com/content/cover-shot/]]></guid>
+	<pubDate>Fri, 15 Jan 2016 03:10:49 +0000</pubDate>
+	<dc:creator><![CDATA[Sam Smith]]></dc:creator>
+	<description><![CDATA[]]></description>
+	<content:encoded><![CDATA[<figure><img alt="Cover-Shot.jpg" src="http://samdavidsmith.com/storage/cache/images/000/128/Cover-Shot,medium_large.1452827448.jpg" width="640"><figcaption></figcaption></figure>]]></content:encoded>
+	<media:title><![CDATA[Cover-Shot.jpg]]></media:title>
+	<media:description><![CDATA[]]></media:description>
+	<media:copyright><![CDATA[© Sam David Smith, 2016]]></media:copyright>
+	<media:content url="http://samdavidsmith.com/storage/cache/images/000/128/Cover-Shot,medium_large.1452827448.jpg" width="640" type="image/jpeg" />
+	<media:thumbnail url="http://samdavidsmith.com/storage/cache/images/000/128/Cover-Shot,small.1452827448.jpg" width="80" />
+	<media:credit role="photographer"><![CDATA[Sam Smith]]></media:credit>
+</item>	</channel>
+</rss>

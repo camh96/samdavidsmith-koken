@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:georss="http://www.georss.org/georss" xmlns:media="http://search.yahoo.com/mrss/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+	<title><![CDATA[samdavidsmith: Mr & Mrs Harvey]]></title>
+	<link><![CDATA[http://samdavidsmith.com/albums/mr-mrs-harvey/]]></link>
+	<description><![CDATA[samdavidsmith: Recent uploads from the Mr & Mrs Harvey album]]></description>
+	<generator>http://koken.me</generator>
+	<lastBuildDate>Fri, 15 Jan 2016 03:10:22 +0000</lastBuildDate>
+	<atom:link href="http://samdavidsmith.com/feed/albums/16/recent.rss" rel="self" type="application/rss+xml" />	<image>
+	<url>http://samdavidsmith.com/storage/cache/images/000/142/Cover-Shot,medium_large.1452827968.jpg</url>
+	<title><![CDATA[samdavidsmith: Mr & Mrs Harvey]]></title>
+	<link>http://samdavidsmith.com/albums/mr-mrs-harvey/</link>
+	</image>
+	<item>
+	<title><![CDATA[Photo-15-01-16-3-11-47-PM-1.jpg]]></title>
+	<link><![CDATA[http://samdavidsmith.com/albums/mr-mrs-harvey/content/photo-15-01-16-3-11-47-pm-2/]]></link>
+	<guid><![CDATA[http://samdavidsmith.com/albums/mr-mrs-harvey/content/photo-15-01-16-3-11-47-pm-2/]]></guid>
+	<pubDate>Fri, 15 Jan 2016 03:19:31 +0000</pubDate>
+	<dc:creator><![CDATA[Sam Smith]]></dc:creator>
+	<description><![CDATA[Processed with VSCOcam with a6 preset]]></description>
+	<content:encoded><![CDATA[<figure><img alt="Photo-15-01-16-3-11-47-PM-1.jpg" src="http://samdavidsmith.com/storage/cache/images/000/143/Photo-15-01-16-3-11-47-PM-1,medium_large.1452827971.jpg" width="800"><figcaption>Processed with VSCOcam with a6 preset</figcaption></figure>]]></content:encoded>
+	<media:title><![CDATA[Photo-15-01-16-3-11-47-PM-1.jpg]]></media:title>
+	<media:description><![CDATA[Processed with VSCOcam with a6 preset]]></media:description>
+	<media:copyright><![CDATA[© Sam David Smith, 2016]]></media:copyright>
+	<media:content url="http://samdavidsmith.com/storage/cache/images/000/143/Photo-15-01-16-3-11-47-PM-1,medium_large.1452827971.jpg" width="800" type="image/jpeg" />
+	<media:thumbnail url="http://samdavidsmith.com/storage/cache/images/000/143/Photo-15-01-16-3-11-47-PM-1,small.1452827971.jpg" width="100" />
+	<media:credit role="photographer"><![CDATA[Sam Smith]]></media:credit>
+</item>	<item>
+	<title><![CDATA[Cover-Shot.jpg]]></title>
+	<link><![CDATA[http://samdavidsmith.com/albums/mr-mrs-harvey/content/cover-shot-3/]]></link>
+	<guid><![CDATA[http://samdavidsmith.com/albums/mr-mrs-harvey/content/cover-shot-3/]]></guid>
+	<pubDate>Fri, 15 Jan 2016 03:19:28 +0000</pubDate>
+	<dc:creator><![CDATA[Sam Smith]]></dc:creator>
+	<description><![CDATA[Processed with VSCOcam with a6 preset]]></description>
+	<content:encoded><![CDATA[<figure><img alt="Cover-Shot.jpg" src="http://samdavidsmith.com/storage/cache/images/000/142/Cover-Shot,medium_large.1452827968.jpg" width="640"><figcaption>Processed with VSCOcam with a6 preset</figcaption></figure>]]></content:encoded>
+	<media:title><![CDATA[Cover-Shot.jpg]]></media:title>
+	<media:description><![CDATA[Processed with VSCOcam with a6 preset]]></media:description>
+	<media:copyright><![CDATA[© Sam David Smith, 2016]]></media:copyright>
+	<media:content url="http://samdavidsmith.com/storage/cache/images/000/142/Cover-Shot,medium_large.1452827968.jpg" width="640" type="image/jpeg" />
+	<media:thumbnail url="http://samdavidsmith.com/storage/cache/images/000/142/Cover-Shot,small.1452827968.jpg" width="80" />
+	<media:credit role="photographer"><![CDATA[Sam Smith]]></media:credit>
+</item>	</channel>
+</rss>
